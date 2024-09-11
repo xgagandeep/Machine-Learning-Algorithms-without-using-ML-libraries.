@@ -2,7 +2,7 @@
 
 # Machine Learning Algorithms from Scratch
 
-This repository contains various links for implementations of machine learning algorithms from scratch using Python. These implementations are designed to demonstrate the core principles and workings of each algorithm without relying on specialized libraries. Each project is implemented in a Jupyter Notebook for easy understanding and experimentation.
+This repository contains various links for repo for implementations of machine learning algorithms from scratch using Python. These implementations are designed to demonstrate the core principles and workings of each algorithm without relying on specialized libraries. Each project is implemented in a Jupyter Notebook for easy understanding and experimentation.
 
 ## Projects Included
 
