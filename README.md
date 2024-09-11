@@ -24,7 +24,7 @@ This project showcases a face recognition system implemented from scratch using 
 ### 6. [Naive Bayes from Scratch](https://github.com/xgagandeep/Naive-Bayes-from-Scratch)
 This project implements the Naive Bayes classifier from scratch. It covers the principles of Naive Bayes classification, including prior and conditional probabilities, and evaluation of the model.
 
-###7. [Decision Trees from Scratch](https://github.com/xgagandeep/Decision-Trees-from-Scratch)
+### 7. [Decision Trees from Scratch](https://github.com/xgagandeep/Decision-Trees-from-Scratch)
 This project implements Decision Trees from scratch. It involves building a Decision Tree classifier, calculating entropy and information gain for splitting nodes, and making predictions based on tree traversal. The implementation includes training and testing the model on a dataset and comparing it with built-in Decision Tree classifiers from scikit-learn.
 
 ## Requirements
