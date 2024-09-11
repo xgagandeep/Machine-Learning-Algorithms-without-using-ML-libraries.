@@ -16,7 +16,7 @@ This project extends linear regression to handle multiple features (multivariate
 This project implements regression trees from scratch. It covers the creation of regression trees, splitting criteria, and the recursive building of the tree structure.
 
 ### 4. [KMeans from Scratch](https://github.com/xgagandeep/KMeans-from-scratch)
-This project implements the KMeans clustering algorithm from scratch using Python. The notebook demonstrates how to perform clustering on synthetic data generated using the `make_blobs` function from Scikit-learn. The implementation includes initializing clusters, assigning points to clusters, updating cluster centers, and visualizing the results.
+This project implements the KMeans clustering algorithm from scratch using Python. The notebook demonstrates how to perform clustering on synthetic data generated using the `make_blobs` function from Scikit-learn.
 
 ### 5. [Image Segmentation using KMeans](https://github.com/xgagandeep/Image-Segmentation-using-kmeans)
 This project demonstrates image segmentation using the KMeans clustering algorithm. It includes steps for preprocessing the image, applying KMeans clustering, and visualizing the segmented image.
@@ -28,7 +28,7 @@ This project showcases a face recognition system implemented from scratch using 
 This project implements the Naive Bayes classifier from scratch. It covers the principles of Naive Bayes classification, including prior and conditional probabilities, and evaluation of the model.
 
 ### 8. [Decision Trees from Scratch](https://github.com/xgagandeep/Decision-Trees-from-Scratch)
-This project implements Decision Trees from scratch. It involves building a Decision Tree classifier, calculating entropy and information gain for splitting nodes, and making predictions based on tree traversal. The implementation includes training and testing the model on a dataset and comparing it with built-in Decision Tree classifiers from scikit-learn.
+This project implements Decision Trees from scratch. It involves building a Decision Tree classifier, calculating entropy and information gain for splitting nodes, and making predictions based on tree traversal.
 
 
 
